@@ -27,7 +27,8 @@
 
 Proje hakkında kısa bir ön izleme için aşağıdaki GIF'i inceleyebilirsiniz:
 
-- ![Proje GIF'i](./images/gif.gif)
+![bmw](https://github.com/user-attachments/assets/cffa742b-61be-443a-ab20-8dea025115c8)
+
 
 ## **Katkıda Bulunma**
 
